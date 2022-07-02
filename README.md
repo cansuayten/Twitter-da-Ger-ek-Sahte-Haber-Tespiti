@@ -1,2 +1,2 @@
 # Twitter-da-Gercek-Sahte-Haber-Tespiti
-# BM495 Graduation Project
+BM495 Graduation Project
